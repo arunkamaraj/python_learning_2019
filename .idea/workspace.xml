@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4041f581-40b1-4713-958b-a377353030df" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_learning" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WmBOt7SNYXNbOFXNenSRDPOLLA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="linked&#9;FILE&#9;file://C:/personal_learning/python_learning/unordered_linked_list.py&#10;link&#9;null&#9;null&#10;abs&#9;FILE&#9;file://C:/personal_learning/python_learning/my_abstract_pack/abstract_pack.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_learning/rest_shop_project/Rest-Shop/restshop_project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python_learning" sdk-home="C:\Users\akamara\AppData\Local\Programs\Python\Python37-32\python.exe">
+        <option name="mySdkHome" value="C:\Users\akamara\AppData\Local\Programs\Python\Python37-32\python.exe" />
+        <option name="myModuleName" value="python_learning" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+    <option name="myIpythonEnabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\personal_learning\python_learning" />
+      <recent name="C:\personal_learning\python_learning\tree_expore" />
+      <recent name="C:\personal_learning\python_learning\sorting_algo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.reverse_circular_list">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_learning" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="detect_loop_and_start_of_loop (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list_experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list_experiments/detect_loop_and_start_of_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_loop_and_start_of_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list_experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\personal_learning\python_learning\linked_list_experiments\detect_loop_and_start_of_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_double_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list_experiments/double_linked_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list_experiments/double_linked_list/merge_double_linked_list" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrome_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list_experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list_experiments/palindrome_linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse_circular_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list_experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list_experiments/reverse_circular_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.detect_loop_and_start_of_loop" />
+      <item itemvalue="Python.palindrome_linked_list" />
+      <item itemvalue="Python.merge_double_linked_list" />
+      <item itemvalue="Python.detect_loop_and_start_of_loop (1)" />
+      <item itemvalue="Python.reverse_circular_list" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.reverse_circular_list" />
+        <item itemvalue="Python.detect_loop_and_start_of_loop (1)" />
+        <item itemvalue="Python.merge_double_linked_list" />
+        <item itemvalue="Python.palindrome_linked_list" />
+        <item itemvalue="Python.detect_loop_and_start_of_loop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4041f581-40b1-4713-958b-a377353030df" name="Default" comment="" />
+      <created>1565685991974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565685991974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-3356" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580208002910">
+      <screen x="-3600" y="29" width="1680" height="1010" />
+    </state>
+    <state x="-3356" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-3600.29.1680.1010" timestamp="1580208002910" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579744877163" />
+    <state x="-3042" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580960765673">
+      <screen x="-3600" y="29" width="1680" height="1010" />
+    </state>
+    <state x="-3042" y="337" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-3600.29.1680.1010" timestamp="1580960765673" />
+    <state width="579" height="466" key="DebuggerActiveHint" timestamp="1580225119391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="579" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1580225119391" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580213011758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580213011758" />
+    <state width="1899" height="399" key="GridCell.Tab.0.bottom" timestamp="1581059492276">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="399" key="GridCell.Tab.0.bottom/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581059492276" />
+    <state width="1659" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-3600.29.1680.1010" timestamp="1580209618710" />
+    <state width="1515" height="279" key="GridCell.Tab.0.bottom/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@0.0.1536.824" timestamp="1579756315432" />
+    <state width="1515" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581035776724" />
+    <state width="1899" height="399" key="GridCell.Tab.0.center" timestamp="1581059492276">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="399" key="GridCell.Tab.0.center/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581059492276" />
+    <state width="1659" height="348" key="GridCell.Tab.0.center/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-3600.29.1680.1010" timestamp="1580209618709" />
+    <state width="1515" height="279" key="GridCell.Tab.0.center/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@0.0.1536.824" timestamp="1579756315431" />
+    <state width="1515" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581035776724" />
+    <state width="1899" height="399" key="GridCell.Tab.0.left" timestamp="1581059492276">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="399" key="GridCell.Tab.0.left/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581059492276" />
+    <state width="1659" height="348" key="GridCell.Tab.0.left/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-3600.29.1680.1010" timestamp="1580209618709" />
+    <state width="1515" height="279" key="GridCell.Tab.0.left/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@0.0.1536.824" timestamp="1579756315431" />
+    <state width="1515" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581035776724" />
+    <state width="1899" height="399" key="GridCell.Tab.0.right" timestamp="1581059492276">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="399" key="GridCell.Tab.0.right/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581059492276" />
+    <state width="1659" height="348" key="GridCell.Tab.0.right/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-3600.29.1680.1010" timestamp="1580209618709" />
+    <state width="1515" height="279" key="GridCell.Tab.0.right/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@0.0.1536.824" timestamp="1579756315431" />
+    <state width="1515" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581035776724" />
+    <state width="1515" height="300" key="GridCell.Tab.1.bottom" timestamp="1581035776725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.1.bottom/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1580965966367" />
+    <state width="1515" height="300" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581035776725" />
+    <state width="1515" height="300" key="GridCell.Tab.1.center" timestamp="1581035776724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.1.center/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1580965966367" />
+    <state width="1515" height="300" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581035776724" />
+    <state width="1515" height="300" key="GridCell.Tab.1.left" timestamp="1581035776724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.1.left/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1580965966367" />
+    <state width="1515" height="300" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581035776724" />
+    <state width="1515" height="300" key="GridCell.Tab.1.right" timestamp="1581035776724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.1.right/0.0.1536.824/-3600.29.1680.1010/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1580965966367" />
+    <state width="1515" height="300" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581035776724" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1579744907393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579744907393" />
+    <state x="462" y="144" width="611" height="536" key="find.popup" timestamp="1580230083720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580230083720" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Find_the_kth_element_in_series_generated_by_N_ranges.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/unordered_linked_list.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tower_of_hanoi.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tower_of_hanoi.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tower_of_hanoi.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/maze_understading.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tree_expore/tree_list_representation.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tree_expore/tree_list_representation.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tree_expore/priority_queue_using_binary_heap.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/graphs/Knight_tour_with_graph_backtracking.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/graphs/topology_sort_DFS.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/graphs/topology_sort_DFS.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/graphs/dfs_plain.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/graphs/prims_algo.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/sorting_algo/merge_sort.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/reverse_linked_list.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/flattening_sorted_linked_list.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/add_two_linked_list.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/add_two_linked_list.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/add_two_linked_list.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/remove_duplicate_by_sorting.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/palindrome_linked_list.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/palindrome_linked_list.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/palindrome_linked_list.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/palindrome_linked_list.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/double_linked_list/merge_double_linked_list</url>
+          <line>98</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/double_linked_list/merge_double_linked_list</url>
+          <line>37</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_experiments/reverse_circular_list.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

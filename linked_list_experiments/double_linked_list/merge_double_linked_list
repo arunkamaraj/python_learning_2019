@@ -1,0 +1,103 @@
+class DoubleLinkedList:
+    def __init__(self):
+        self.head = None
+
+    def add(self, data):
+        new_node = Node(data)
+
+        if self.head is None:
+            self.head = new_node
+        else:
+            new_node.next = self.head
+            self.head = new_node
+
+    def append(self, data):
+        new_node = Node(data)
+
+        if self.head is None:
+            self.head = new_node
+        else:
+            cur_node = self.head
+
+            while cur_node.next is not None:
+                cur_node = cur_node.next
+
+            cur_node.next = new_node
+            new_node.prev = cur_node
+
+
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+        self.prev = None
+
+
+def create_linkedlist(*l):
+    dl = DoubleLinkedList()
+    for i in l:
+        dl.append(i)
+
+    return dl
+
+
+def print_list(l):
+    if isinstance(l, DoubleLinkedList):
+        node = l.head
+    elif isinstance(l, Node):
+        node = l
+
+    while node is not None:
+        print(node.data, end='-->')
+        node = node.next
+    print('\n')
+
+
+def merge_list(a, b):
+    output = DoubleLinkedList()
+    while a is not None and b is not None:
+        if a.data < b.data:
+            output.append(a.data)
+            a = a.next
+        else:
+            output.append(b.data)
+            b = b.next
+
+    while a is not None:
+        output.append(a.data)
+        a = a.next
+
+    while b is not None:
+        output.append(b.data)
+        b = b.next
+
+    return output.head
+
+def process_merging(lst):
+    if len(lst) > 0:
+        a = lst[0]
+        b = lst[1:]
+
+        b = process_merging(b)
+
+        return merge_list(a, b)
+    return
+
+if __name__ == "__main__":
+    # 1 <=> 5 <=> 9
+    l1 = create_linkedlist(1, 5, 9)
+
+    # 2 <=> 3 <=> 7 <=> 12
+    l2 = create_linkedlist(2, 3, 7, 12)
+
+    # 8 <=> 11 <=> 13 <=> 18
+    l3 = create_linkedlist(8, 11, 13, 18)
+
+    # o = merge_list(l1.head, l2.head)
+    k = process_merging([l1.head, l2.head, l3.head])
+    print_list(k)
+    # print_list(l1)
+    # print_list(l2)
+    # print_list(l3)
+    # print_list(o)
+
