@@ -1,0 +1,22 @@
+# You are given a 2-D array of size NXM.
+# Your task is to find:
+#
+# The mean along axis 1
+# The var along axis 0
+# The std along axis None
+
+#input
+# The first line contains the space separated values of N and M .
+# The next N lines contains M space separated integers.
+
+import numpy
+
+if __name__ == "__main__":
+    numpy.set_printoptions(legacy='1.13')
+    N, M = list(map(int, input().strip().split()))
+    A = numpy.array([list(map(int, input().strip().split())) for i in range(N)])
+
+    print(numpy.mean(A, axis=1))
+    print(numpy.std(A, axis=0))
+    print(numpy.var(A))
+
